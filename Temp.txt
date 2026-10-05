@@ -1,0 +1,4 @@
+User : 00021
+Password : 0001
+
+Connect : 10.100.00.001
